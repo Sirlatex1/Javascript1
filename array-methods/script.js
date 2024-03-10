@@ -20,7 +20,7 @@ const names2 = ['abdullateef', 'habibullah', 'abdullah', 'anathe']
 names2.shift()
 console.log(names2)
 
-// unshift adds a new value to the start og an array
+// unshift adds a new value to the start of an array
 const names3 = ['abdullateef', 'habibullah', 'abdullah', 'anathe']
 names3.unshift('abdulmuhmin')
 console.log(names3)
